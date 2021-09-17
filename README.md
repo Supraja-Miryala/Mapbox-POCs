@@ -1,1 +1,1 @@
-# Mapbox-POCs
+# RabbitMQ-POCs
