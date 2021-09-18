@@ -1,1 +1,1 @@
-# RabbitMQ-POCs
+# RabbitMQ-POC
